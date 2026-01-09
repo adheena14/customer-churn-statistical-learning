@@ -1,9 +1,9 @@
 # Customer Churn Prediction & Retention Strategy Using Statistical Learning
 
-Status: In Progress
+Status: Completed
 
 ## Objective
-To build a data-driven customer churn prediction system using statistical learning techniques and propose actionable retention strategies based on model insights.
+To build a data-driven customer churn prediction pipeline using statistical learning and logistic regression techniques and propose actionable retention strategies based on model insights.
 
 ## Problem Statement
 Customer churn directly impacts revenue and growth. The goal of this project is to identify customers at high risk of churn and understand the key factors contributing to churn behavior.
