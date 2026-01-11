@@ -52,17 +52,6 @@ Reason for choice:
 - Improve billing experience for high-risk payment methods
 - Use model outputs to prioritize customers for proactive engagement
 
-## Project structure
-customer-churn-statistical-learning/
-│
-├── data/
-│   └── churn.csv
-│
-├── notebooks/
-│   └── customer_churn_analysis.ipynb
-│
-├── README.md
-
 ## Tools
 Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 
