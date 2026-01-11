@@ -45,6 +45,7 @@ Reason for choice:
 ## Model Performance
 - #### Accuracy: 79%
 - #### ROC-AUC: 0.84
+While the model achieves 79% accuracy at the default threshold, the ROC-AUC of 0.84 indicates strong ability to distinguish churners from non-churners across different decision thresholds.
 
 ## Business Takeaways
 - Focus retention efforts on short-tenure, month-to-month customers
