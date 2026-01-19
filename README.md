@@ -1,8 +1,16 @@
 # Customer Churn Prediction System
 
 
-(Note: The notebook preview may not render on GitHub for large files. 
-Please clone/download to view fully.)
+(Note: Some notebooks may not render fully on NBViewer due to size/plot outputs. 
+Please use Google Colab or download the notebook to view the complete analysis:
+
+Open in Colab:
+ https://colab.research.google.com/github/adheena14/customer-churn-statistical-learning/blob/main/notebooks/Summarynotebook.ipynb
+
+ https://colab.research.google.com/github/adheena14/customer-churn-statistical-learning/blob/main/notebooks/churn_eda.ipynb
+
+)
+
 
 ## Overview
 Customer churn is a critical business problem where retaining existing customers is often more cost-effective than acquiring new ones.
