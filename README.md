@@ -1,5 +1,9 @@
 # Customer Churn Prediction System
 
+
+(Note: The notebook preview may not render on GitHub for large files. 
+Please clone/download to view fully.)
+
 ## Overview
 Customer churn is a critical business problem where retaining existing customers is often more cost-effective than acquiring new ones.
 This project builds a data-driven customer churn prediction system using machine learning to identify customers who are likely to stop using a service, enabling proactive retention strategies.
